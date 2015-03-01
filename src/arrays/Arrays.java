@@ -4,6 +4,7 @@ package arrays;
  *
  * @author HysokA
  */
+ //SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 import java.util.Scanner;
 
 public class Arrays {
